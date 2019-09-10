@@ -1,2 +1,2 @@
-# ML-for-Portfolio-Optimization
-I will be posting ML techniques for portfolio optimization 
+# Machine Learning for Trading
+I will be posting ML techniques for portfolio optimization by using Python Scientific computing stack. 
