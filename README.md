@@ -1,4 +1,4 @@
-# Machine Learning for Trading (Under Construction) 
+# Machine Learning for Trading (Work in Progress) 
 I will be posting seperate .py files for portfolio optimization by using Machine Learning with Python Scientific computing stack. 
 Each file in this repository can be ran seperately. 
 
