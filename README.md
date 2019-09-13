@@ -1,5 +1,5 @@
 # Machine Learning for Trading
-I will be posting seperate .py files for portfolio optimization by using Machine Learning with Python Scientific computing stack . 
+I will be posting seperate .py files for portfolio optimization by using Machine Learning with Python Scientific computing stack. 
 
 # sharpe_ratio.py 
 Let`s start with very common way for stock selection which is Sharpe Ratio. 
