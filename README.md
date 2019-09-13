@@ -1,2 +1,8 @@
 # Machine Learning for Trading
-I will be posting ML techniques for portfolio optimization by using Python Scientific computing stack. 
+I will be posting Machine Learning techniques for portfolio optimization by using Python Scientific computing stack. 
+
+# sharpe_ratio.py 
+Let`s start with very common way for stock selection which is Sharpe Ratio. 
+Sharpe Ratio is used by portfolio managers / investors to understand investment return compared to its risk. 
+
+Sharpe Ratio = ((Return of Portfolio) - (Risk-free rate) ) / (standard deviation of portfolio`s excess return)
