@@ -3,8 +3,9 @@ I will be posting seperate .py files for portfolio optimization by using Machine
 Each file in this repository can be ran seperately. 
 
 # sharpe_ratio.py 
-Let`s start with very common way for optimum stock selection for portfolio construction which is Sharpe Ratio. 
+Let`s start with very common way for optimum stock selection in portfolio construction which is Sharpe Ratio. 
 Sharpe Ratio is used by portfolio managers / investors to understand investment return compared to its risk. 
+Its formula is as following
 
 Sharpe Ratio = (Rp - Rf) / 𝜎𝑝
 
