@@ -1,5 +1,5 @@
 # Machine Learning for Trading (Work in Progress) 
-I will be posting seperate .py files for portfolio optimization by using Machine Learning with Python Scientific computing stack. 
+I will be posting seperate .py files for portfolio optimization by using Machine Learning with Python Scientific computing stack SciPy. 
 Each file in this repository can be ran seperately. 
 
 # sharpe_ratio.py 
