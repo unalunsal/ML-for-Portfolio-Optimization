@@ -7,6 +7,7 @@ Let`s start with very common way for optimum stock selection for portfolio const
 Sharpe Ratio is used by portfolio managers / investors to understand investment return compared to its risk. 
 
 Sharpe Ratio = (Rp - Rf) / 𝜎𝑝
+
 Rp : Return of Portfolio
 Rf : Risk-free rate 
 𝜎𝑝 : Standard Deviation of Portfolio`s Excess Return
