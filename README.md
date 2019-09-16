@@ -8,6 +8,8 @@ Sharpe Ratio is used by portfolio managers / investors to understand investment 
 
 Sharpe Ratio = (Rp - Rf) / 𝜎𝑝
 
-Rp : Return of Portfolio.
-Rf : Risk-free rate. 
-𝜎𝑝 : Standard Deviation of Portfolio`s Excess Return.
+Rp : Return of Portfolio
+
+Rf : Risk-free rate
+
+𝜎𝑝 : Standard Deviation of Portfolio`s Excess Return
