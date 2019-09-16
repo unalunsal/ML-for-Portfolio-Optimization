@@ -6,4 +6,7 @@ Each file in this repository can be ran seperately.
 Let`s start with very common way for optimum stock selection for portfolio construction which is Sharpe Ratio. 
 Sharpe Ratio is used by portfolio managers / investors to understand investment return compared to its risk. 
 
-Sharpe Ratio = ((Return of Portfolio) - (Risk-free rate) ) / (standard deviation of portfolio`s excess return)
+Sharpe Ratio = (Rp - Rf) / 𝜎𝑝
+Rp : Return of Portfolio
+Rf : Risk-free rate 
+𝜎𝑝 : Standard Deviation of Portfolio`s Excess Return
